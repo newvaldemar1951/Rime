@@ -15,7 +15,7 @@ patch:
   - schema: luna_pinyin_simp     # 朙月拼音·简化字，可以按 ctrl+` 选择临时启用正體中文
   - schema: luna_pinyin_fluency  # 语句流
   - schema: luna_pinyin_tw       # 朙月拼音·臺灣正體，可以按 ctrl+` 選擇臨時啓用简体中文
-
+  - schema: tangutcjkk
   ascii_composer:
     good_old_caps_lock: true
     switch_key:
